@@ -1,0 +1,1 @@
+../share/conf/item_names.txt
