@@ -1,1 +1,1 @@
-cd /server/share/locale/english/quest && python make.py
+cd ./server/share/locale/english/quest && python make.py
