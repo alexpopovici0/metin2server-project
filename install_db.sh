@@ -5,4 +5,4 @@ if [ -d $DIR ]; then
     rmdir mysql
 fi  
 cd ~/../usr/metin2server-project
-tar -xf metin2_mysql.tar.gz -C ~/../var/db/
+tar -zxvf metin2_mysql.tar.gz -C ~/../var/db/

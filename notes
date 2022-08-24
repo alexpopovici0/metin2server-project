@@ -1,0 +1,3 @@
+need to add mysql_enable=YES in /etc/rc.d
+
+service mysql-server start/stop to start and stop the servince
