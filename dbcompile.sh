@@ -1,1 +1,1 @@
-cd ./server/src/db/src && gmake -j9
+cd ./src/db/src && gmake -j9

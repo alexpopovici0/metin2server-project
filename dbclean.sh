@@ -1,1 +1,1 @@
-cd ./server/src/db/src && gmake clean
+cd ./src/db/src && gmake clean

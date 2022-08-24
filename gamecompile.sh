@@ -1,1 +1,1 @@
-cd ./server/src/game/src/ && gmake -j9
+cd ./src/game/src/ && gmake -j9

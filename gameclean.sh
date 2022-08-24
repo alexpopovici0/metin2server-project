@@ -1,1 +1,1 @@
-cd ./server/src/game/src/ && gmake clean
+cd ./src/game/src/ && gmake clean
