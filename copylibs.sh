@@ -1,0 +1,1 @@
+cp /Libs ~/../usr/lib 
