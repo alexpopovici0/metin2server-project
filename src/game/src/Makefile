@@ -10,7 +10,7 @@ INCDIR =
 LIBDIR =
 BINDIR = ..
 OBJDIR = OBJDIR
-GAMEDIR = /usr/metin2/server/share/bin
+GAMEDIR = /usr/metin2server-project/server/share/bin
 $(shell if [ ! -d $(OBJDIR) ]; then mkdir $(OBJDIR); fi)
 
 # Standard Setting
