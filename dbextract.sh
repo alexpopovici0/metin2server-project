@@ -1,6 +1,6 @@
 DIR="~/../var/db/mysql"
 
-if [-d $DIR]; then 
+if [ -d $DIR]; then 
     cd ~/../var/db/
     rmdir mysql
 fi  
