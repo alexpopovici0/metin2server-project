@@ -6,3 +6,4 @@ if [ -d $DIR ]; then
 fi  
 cd ~/../usr/metin2server-project
 tar -zxvf metin2_mysql.tar.gz -C ~/../var/db/
+
